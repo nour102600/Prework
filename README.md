@@ -4,7 +4,7 @@
 
 Submitted by: **Nour Elabbasy**
 
-Time spent: **2** hours spent in total
+Time spent: **3** hours spent in total
 
 ## User Stories
 
@@ -35,6 +35,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+- My keyboard was not popping up when I tapped on the text field. 
 
 ## License
 
